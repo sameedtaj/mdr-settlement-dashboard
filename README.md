@@ -52,22 +52,18 @@ A Streamlit app that does the calculation automatically and gives the finance te
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>📁 Upload & Auto-Processing</b><br/><br/>
-      <img src="asset/02-upload.png" alt="Upload and processing"/>
+      <b>1️⃣ Filter by Merchant & Date</b><br/><br/>
+      <img src="asset/02-filters.png" alt="Lock payment filters and selected merchant data"/>
     </td>
     <td width="50%" align="center">
-      <b>🔎 Merchant & Date Filters</b><br/><br/>
-      <img src="asset/03-settlement.png" alt="Settlement filters and merchant data"/>
+      <b>2️⃣ Enter Settlement & Lock</b><br/><br/>
+      <img src="asset/03-lock-payment.png" alt="Enter refund, tax, payment details and lock"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <b>🧾 Settlement Entry & Lock</b><br/><br/>
-      <img src="asset/04-lock-payment.png" alt="Enter settlement details and lock payment"/>
-    </td>
-    <td width="50%" align="center">
-      <b>⬇️ Output & Download</b><br/><br/>
-      <img src="mdr%20sattlement%20dashboard.png" alt="Output data and download"/>
+    <td colspan="2" align="center">
+      <b>3️⃣ Review Output & Download</b><br/><br/>
+      <img src="asset/04-output-download.png" alt="Output data and download updated Excel" width="75%"/>
     </td>
   </tr>
 </table>
